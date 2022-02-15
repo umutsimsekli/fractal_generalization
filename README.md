@@ -1,10 +1,12 @@
-# jhi_calculator
+# Fractal Dimension of Optimizers and Generalization
 
 
 This code repository includes the source code for the [Paper](https://proceedings.neurips.cc/paper/2021/file/9bdb8b1faffa4b3d41779bb495d79fb9-Paper.pdf):
 
 ```
-Camuto, A., Deligiannidis, G., Erdogdu, M. A., Gurbuzbalaban, M., Simsekli, U., & Zhu, L. "Fractal structure and generalization properties of stochastic optimization algorithms.", Advances in Neural Information Processing Systems (NeurIPS), 2021.
+"Fractal structure and generalization properties of stochastic optimization algorithms.", 
+Camuto, A., Deligiannidis, G., Erdogdu, M. A., Gurbuzbalaban, M., Simsekli, U., & Zhu, L., 
+Advances in Neural Information Processing Systems (NeurIPS), 2021.
 ```
 
 It is used for estimating the dominant eigenvalue of the Jacobian of SGD iterates.
